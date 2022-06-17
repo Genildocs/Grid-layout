@@ -12,12 +12,19 @@
 
 .mainheader{
     grid-area: header;
-    background-color: red;
+    background-color: rgb(255, 255, 255);
+    
+    
 }
 
+.flex-container{
+    
+    
+}
 .mainnav{
     grid-area: Navigation;
-    background-color:green;
+    background-color:rgb(230, 235, 230);
+    border: 2px solid red;
 }
 
 .maincontent{
